@@ -35,18 +35,6 @@
                  data-separator-vertical="^\n\n"
                  data-separator-notes="^Note:">
         </section>
-        <section id="main"
-                 data-markdown="markdown/main.md"
-                 data-separator="^\n\n\n"
-                 data-separator-vertical="^\n\n"
-                 data-separator-notes="^Note:">
-        </section>
-        <section id="conclusion"
-                 data-markdown="markdown/conclusion.md"
-                 data-separator="^\n\n\n"
-                 data-separator-vertical="^\n\n"
-                 data-separator-notes="^Note:">
-        </section>
       </div>
     </div>
 
@@ -86,13 +74,8 @@ Reveal.initialize({
     controls: false,
     progress: false,
     history: true,
-    center: true,
-
-    // Parallax background image
-    parallaxBackgroundImage: 'images/background.jpg',
-
-    // Parallax background size
-    parallaxBackgroundSize: '2100px 900px', // CSS syntax, e.g. "2100px 900px"
+    center: false,
+    autoSlide: 15000,
 
     theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
     transition: Reveal.getQueryHash().transition || 'fade', // default/cube/page/concave/zoom/linear/fade/none
