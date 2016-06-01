@@ -34,21 +34,28 @@
     }
 
     h1 {
-        font-size: 5em;
+        font-size: 7em;
     }
 
     h2 {
-        font-size: 3em;
+        font-size: 6em;
     }
 
     h3 {
-        font-size: 1.5em;
+        font-size: 5em;
     }
 
+    p {
+        font-size: 4em;
+	color: grey;
+	line-height: 150%;
+	margin-top: 1em;
+	margin-bottom: 1em;
+    }
+   
     h1, h2, h3, h4, h5, h6 {
         font-family: "Cabin", sans-serif;
         font-weight: bold;
-        text-transform: uppercase;
         text-stroke: 1px black;
         color: white;
         text-shadow:
@@ -57,6 +64,10 @@
             1px -1px 0 #000,
             -1px 1px 0 #000,
             1px 1px 0 #000;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        text-transform: uppercase;
     }
 
     .progress span {
@@ -85,11 +96,17 @@
         font-family: "Special Elite", monospace !important;
     }
 
+    em {
+        color: black !important;
+        text-shadow: none;
+    }
+ 
     code {
-        font-family: "Special Elite", monospace !important;
+        font-family: monospace !important;
         color: black !important;
         text-shadow: none;
         text-transform: none;
+	font-size: 120%;
     }
 
     pre code {
@@ -112,6 +129,7 @@
         margin-top:-10vh;
         text-shadow: none;
     }
+
 }
 
 @media print {
