@@ -1,6 +1,6 @@
 # Fragile Development
 
-Why `Scrum` is terrible, and what we should be doing instead
+Why `Scrum` is terrible, and why you should ditch it
 
 
 `_____`'s roles, artifacts, events, and rules are _immutable_ and
