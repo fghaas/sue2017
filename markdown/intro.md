@@ -5,7 +5,7 @@ Why `Scrum` is terrible, and what we should be doing instead
 
 `_____`'s roles, artifacts, events, and rules are _immutable_ and
 although implementing only parts of `_____` is possible, _the result
-is not_ `_____`;
+is not_ `_____`.
 
 Note: Tell me what this statement evokes for you. If you're wired like
 me, it sounds like something out of a radical political manifesto, or
@@ -83,4 +83,4 @@ because you're doing it wrong.
 Nope. _This only happens if you're doing it right._
 
 
-Don't be a scrumbag.
+_Don't be a scrumbag._
