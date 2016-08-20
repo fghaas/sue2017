@@ -13,6 +13,11 @@ Teams self-organize
 
 _if they are stable._
 
+Note: See also
+https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
+(Bruce Tuckman, 1965). Any time a team changes, it goes right back to
+the Forming stage.
+
 
 Sprint after sprint after sprint.
 
@@ -23,6 +28,19 @@ _Try that in a marathon._
 
 
 Daily scrum.
+
+
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Scrum_ASM_Clermont-Saracens.jpg/1280px-Scrum_ASM_Clermont-Saracens.jpg" data-background-size="cover" -->
+
+Note: In rugby union, a scrum is a restart of play following a minor
+infringement. This is such a potentially dangerous activity that
+professional players recognize a safeword, "neck", to be uttered by
+any player who fears that his neck is about to break. How anyone could
+consider this an acceptable metaphor for a team meeting escapes me.
+
+Image:
+https://commons.wikimedia.org/wiki/File:Scrum_ASM_Clermont-Saracens.jpg
+(creator: Wikipedia user Zegreg63)
 
 
 Daily scrum.
