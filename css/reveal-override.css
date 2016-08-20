@@ -53,7 +53,9 @@
   .reveal .controls div.navigate-right, .reveal .controls div.navigate-right.enabled {
     border-left-color: black; }
   .reveal a {
-    font-family: "Special Elite", monospace !important; }
+    font-family: "Special Elite", monospace !important;
+    text-decoration: none !important;
+    color: inherit !important; }
   .reveal em {
     color: black !important;
     text-shadow: none; }
