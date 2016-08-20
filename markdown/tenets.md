@@ -6,7 +6,7 @@ What does Scrum postulate?
 _... and does any of it make sense?_
 
 
-Teams self-organize
+_Teams self-organize_
 
 
 Teams self-organize
@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
 the Forming stage.
 
 
-Sprint after sprint after sprint.
+_Sprint after sprint after sprint._
 
 
 Sprint after sprint after sprint.
@@ -27,7 +27,14 @@ Sprint after sprint after sprint.
 _Try that in a marathon._
 
 
-Daily scrum.
+_Daily scrum._
+
+Note: Defined as time-boxed event of 15 minutes involving the entire
+development team, answering the following questions:
+
+- What did I do yesterday to help the team achive its sprint goals?
+- What am I doing today to help the team achive its sprint goals?
+- Is anything blocking holding me (or us) up?
 
 
 <!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Scrum_ASM_Clermont-Saracens.jpg/1280px-Scrum_ASM_Clermont-Saracens.jpg" data-background-size="cover" -->
@@ -48,7 +55,7 @@ Daily scrum.
 _What planet do you live on?_
 
 
-No planning beyond the current sprint.
+_No planning beyond the current sprint._
 
 
 No planning beyond the current sprint.
@@ -56,15 +63,19 @@ No planning beyond the current sprint.
 _This only works if you have zero customers._
 
 
-Reasonable for emergencies.
+_Reasonable for emergencies._
 
 
 Reasonable for emergencies.
 
-If your team is permanently in an emergency, _quit._
+_If your team is permanently in an emergency, **quit.**_
+
+Note: Goes both ways: if you're _on_ the team, you're in a bad place
+and headed for worse. If you're responsible _for_ the team, you're
+doing bad things to your people.
 
 
-Waterfall is bad. Scrum is novel.
+_Waterfall is bad. Scrum is novel._
 
 
 Waterfall is bad. Scrum is novel.
@@ -75,7 +86,7 @@ _Not since 1975, really._
 <!-- .slide: data-background-image="http://s7.computerhistory.org/is/image/CHM/102676577-05-01?$re-medium$" data-background-size="contain" -->
 
 
-If `Scrum` doesn't work with your team, your problem is your team.
+_If `Scrum` doesn't work with your team, your problem is your team._
 
 
 If `Scrum` doesn't work with your team, your problem is your team.
@@ -83,8 +94,8 @@ If `Scrum` doesn't work with your team, your problem is your team.
 Nope. _Your problem is `Scrum`._
 
 
-If `Scrum` miserably fails to deliver in your organization, it's
-because you're doing it wrong.
+_If `Scrum` miserably fails to deliver in your organization, it's
+because you're doing it wrong._
 
 
 If `Scrum` miserably fails to deliver in your organization, it's
