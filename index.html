@@ -26,11 +26,29 @@
       <div class="slides">
         <section id="qrcode" data-menu-title="QR code">
           <div class="qrcode" id="qrcode-talk"/>
-          <p><a href="https://goo.gl/7q6tEr" target="_blank"
+          <p><a href="https://fghaas.github.io/froscon2016" target="_blank"
                 id="talk"></a></p>
         </section>
         <section id="intro"
                  data-markdown="markdown/intro.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:">
+        </section>
+        <section id="alternatives"
+                 data-markdown="markdown/alternatives.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:">
+        </section>
+        <section id="tools"
+                 data-markdown="markdown/tools.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:">
+        </section>
+        <section id="conclusion"
+                 data-markdown="markdown/conclusion.md"
                  data-separator="^\n\n\n"
                  data-separator-vertical="^\n\n"
                  data-separator-notes="^Note:">
@@ -75,7 +93,6 @@ Reveal.initialize({
     progress: false,
     history: true,
     center: false,
-    autoSlide: 15000,
 
     theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
     transition: Reveal.getQueryHash().transition || 'fade', // default/cube/page/concave/zoom/linear/fade/none
