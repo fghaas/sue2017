@@ -1,7 +1,7 @@
-_What does Scrum postulate?_
+_What does `Scrum` postulate?_
 
 
-What does Scrum postulate?
+What does `Scrum` postulate?
 
 _... and does any of it make sense?_
 
@@ -75,10 +75,10 @@ and headed for worse. If you're responsible _for_ the team, you're
 doing bad things to your people.
 
 
-_Waterfall is bad. Scrum is novel._
+_Waterfall is bad. `Scrum` is novel._
 
 
-Waterfall is bad. Scrum is novel.
+Waterfall is bad. `Scrum` is novel.
 
 _Not since 1975, really._
 
