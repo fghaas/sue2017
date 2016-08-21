@@ -9,7 +9,7 @@ Presentation from FrOSCon 11, August 20, 2016.
 
 ## License
 
-CC-BY-SA 4.0, see <LICENSE> for details.
+CC-BY-SA 4.0, see [LICENSE](LICENSE) for details.
 
 ## Attributions
 
