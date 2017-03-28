@@ -1,11 +1,6 @@
 # Fragile Development
 
-Presentation from FrOSCon 11, August 20, 2016.
-
-## Presentation video
-
-- YouTube: <https://youtu.be/f-ULT_Ic4qk>
-- Downloadable formats: <https://media.ccc.de/v/froscon2016-1722-fragile_development>
+Presentation from Snow Unix Event 2017, March 30/31, 2017.
 
 ## License
 
