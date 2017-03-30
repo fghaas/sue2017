@@ -1,6 +1,6 @@
 # Fragile Development
 
-Florian Haas, FrOSCon 2016
+Florian Haas, Snow Unix Event 2017
 
 florian@hastexo.com | @xahteiwi
 
