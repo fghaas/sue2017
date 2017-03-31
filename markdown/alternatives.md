@@ -1,11 +1,11 @@
 _Rehab_
 
-for revovering scrumbags
+for recovering scrumbags
 
 
 _Rehab_
 
-for revovering scrumbags
+for recovering scrumbags
 
 _What can we salvage?_
 
