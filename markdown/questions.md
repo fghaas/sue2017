@@ -17,5 +17,3 @@ _"But every method fails when applied too rigorously!"_
 "But every method fails when applied too rigorously!"
 
 _... is also not a question. But I'll cut you some slack._
-
-
