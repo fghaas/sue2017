@@ -55,6 +55,10 @@ Daily scrum.
 _What planet do you live on?_
 
 
+<!-- .slide: data-background-image="http://56kilobit.com/wp-content/uploads/2014/10/IMG_4394.png" data-background-size="contain" -->
+Note: Image: http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/
+
+
 _No planning beyond the current sprint._
 
 
