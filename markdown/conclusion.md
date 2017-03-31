@@ -13,4 +13,6 @@ hastexo XBlocks
 <!-- .slide: data-background-image="images/by-sa.svg" data-background-size="contain" -->
 
 
-[github.io/fghaas/sue2017](https://github.io/fghaas/sue2017)
+[fghaas.github.io/sue2017](https://fghaas.github.io/sue2017)
+
+[github.com/fghaas/sue2017](https://github.com/fghaas/sue2017)
