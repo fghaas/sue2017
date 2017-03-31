@@ -55,8 +55,9 @@ Daily scrum.
 _What planet do you live on?_
 
 
-<!-- .slide: data-background-image="http://56kilobit.com/wp-content/uploads/2014/10/IMG_4394.png" data-background-size="contain" -->
-Note: Image: http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/
+<!-- .slide: data-background-image="http://i.imgur.com/sAdZ63y.png" data-background-size="contain" -->
+
+Note: From Bruno Oliveira (Google)
 
 
 _No planning beyond the current sprint._
@@ -108,4 +109,34 @@ because you're doing it wrong.
 Nope. _This only happens if you're doing it right._
 
 
+# SCRUM
+
+**S**uper **C**razy **R**eally **U**seless **M**ethod
+
+Note: Minor pet peeve: some people mistake Scrum for an acronym, and
+render it in all-caps (unlike Ken & Jeff, who always use
+"Scrum"). It's not an acronym. Though if it were one, this would be a
+reasonable expansion.
+
+
+<!-- .slide: data-background-image="images/antipatterncards.png" data-background-size="contain" -->
+
+Note:
+- Adam Weisbart, [Agile Antipattern Cards](https://weisbart.com/product/agile-antipattern-cards)
+- "Grab a deck of Agile Antipattern cards to help your team fight
+  dysfunction", Adam Weisbart,
+  [Shit Bad Scrum Masters Say](https://www.youtu.be/GGbsgs611MM)
+
+
 _Don't be a scrumbag._
+
+Note: [8 Indicators Why Your Scrum Master Is An Idiot](http://www.dkrimmer.de/2016/08/05/8-indicators-of-a-bad-scrum-master/)
+
+- The Softy
+- Agile Bullshit Bingo Bla Bla
+- The Grumbler
+- The “Senior Scrum Master”
+- The Former Developer
+- The Commander
+- The “No-Empathy” Guy
+- The Nanny
